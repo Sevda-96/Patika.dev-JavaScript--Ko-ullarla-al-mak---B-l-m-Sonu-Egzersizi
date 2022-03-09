@@ -1,2 +1,2 @@
-# Patika.dev-JavaScript--Ko-ullarla-al-mak---B-l-m-Sonu-Egzersizi
+# Patika.dev-JavaScript-Kosullarla-calimak-Bolum-Sonu-Egzersizi
 JavaScript | Koşullarla Çalışmak | Bölüm Sonu Egzersizi
